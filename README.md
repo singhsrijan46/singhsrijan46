@@ -71,7 +71,7 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://raw.githubusercontent.com/singhsrijan46/Snake-in-Contribution-Grid/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://github.com/singhsrijan46/singhsrijan46/blob/output/github-snake-dark.svg" width="100%">
 </p>
 </div>
 
