@@ -19,7 +19,7 @@
 <img src="https://i1-e.pinimg.com/736x/f2/84/29/f28429ac9f0b285c5f130ca5bf64b6a3.jpg" width="210" align="left" style="margin-right: 15px;">
 
 <div align="justify">
-  <h3>Hey there! I’m Karthick</h3>
+  <h3>Hey there! I’m Srijan</h3>
   I live somewhere between dark-themed IDEs and the false confidence of saying “this bug should be easy to fix.” I’m a web developer and DevOps learner who enjoys building clean, scalable things while turning caffeine into code. When I’m not coding, you’ll probably find me playing football, binge-watching anime, dropping hot in Battlegrounds Mobile India, whiffing shots in Valorant, or managing my Clash of Clans village like it’s a Fortune 500 company.
   <br><br>
   
@@ -51,7 +51,7 @@
   &nbsp;
   <a href="mailto:singhsrijangkp@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/1W8HDDCPTHcm6hw8zbzDeKoxIxoKsz_VN/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSA5aC00VjNIOXY2SDVsNyA3IDctN3pNNSAxOHYyaDE0di0ySDV6Ii8+PC9zdmc+&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1pnjfY8NIXH-HYLgV9wMiBR7s-tNlGNrR/view?usp=sharing"></a>
 </div>
 
 <br>
