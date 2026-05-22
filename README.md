@@ -92,6 +92,7 @@
         <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white">
         <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white">
         <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
+        <ing src="https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=white">
         <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
         <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white">
@@ -102,11 +103,10 @@
         <strong>Backend & Database</strong>
       </td>
       <td align="left" valign="middle">
-        <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white">
+        <img src="https://img.shields.io/badge/node%20js-000000?style=for-the-badge&logo=Node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/express%20js-000000?style=for-the-badge&logo=Express.js&logoColor=white">
+        <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/API_Integration-000000?style=for-the-badge&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -116,10 +116,9 @@
       <td align="left" valign="middle">
         <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white">
         <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white">
-        <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-        <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white">
       </td>
     </tr>
   </table>
