@@ -106,6 +106,7 @@
         <img src="https://img.shields.io/badge/node%20js-000000?style=for-the-badge&logo=Node.js&logoColor=white">
         <img src="https://img.shields.io/badge/express%20js-000000?style=for-the-badge&logo=Express.js&logoColor=white">
         <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=white">
+        <img src="https://img.shields.io/badge/Next%20js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
       </td>
     </tr>
