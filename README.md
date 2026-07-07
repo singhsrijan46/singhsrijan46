@@ -1,5 +1,5 @@
 <a href="https://github.com/Synaptara">
-  <img src="https://i1-e.pinimg.com/1200x/d1/22/49/d122494ff56b8f55ecd2c1a2549bc54b.jpg" width="100%" alt="Synaptara Banner"/>
+  <img src="https://i.pinimg.com/1200x/fd/1a/a6/fd1aa6b281907e42976b913b009ad7cd.jpg" width="100%" alt="Synaptara Banner"/>
 </a>
 
 <div align="center">
@@ -16,11 +16,11 @@
   <h2>Know About Me</h2>
 </div>
 
-<img src="https://i1-e.pinimg.com/736x/f2/84/29/f28429ac9f0b285c5f130ca5bf64b6a3.jpg" width="210" align="left" style="margin-right: 15px;">
+<img src="https://i.pinimg.com/736x/9d/39/6d/9d396da4917f6da0a28628d545158d9c.jpg" width="210" align="left" style="margin-right: 15px;">
 
 <div align="justify">
   <h3>Hey there! I’m Srijan</h3>
-  I live somewhere between dark-themed IDEs and the false confidence of saying “this bug should be easy to fix.” I’m a web developer and DevOps learner who enjoys building clean, scalable things while turning caffeine into code. When I’m not coding, you’ll probably find me playing football, binge-watching anime, dropping hot in Battlegrounds Mobile India, whiffing shots in Valorant, or managing my Clash of Clans village like it’s a Fortune 500 company.
+  I'm a passionate Full Stack Developer with a strong interest in building scalable, user-friendly web applications. I enjoy turning ideas into real-world projects using modern technologies across the frontend and backend. Currently, I'm expanding my skills in DevOps and Artificial Intelligence, exploring cloud infrastructure, automation, and intelligent systems. I love learning new technologies, solving challenging problems, and building impactful solutions through code.
   <br><br>
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
@@ -36,6 +36,69 @@
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;"> -->
 </div>
 
+<br><br>
+
+<div align="center">
+  <img src="https://i.postimg.cc/8PmQWYw9/Whats-App-Image-2026-03-05-at-11-05-19-PM-(1).jpg" width="100%">
+  <br>
+  <br>
+  <br>
+
+  <table align="center" style="background: transparent; border: none;">
+    <tr>
+      <td align="right" valign="middle" style="padding-right: 20px;">
+        <strong>Frameworks / Libraries:</strong>
+      </td>
+      <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white">
+        <img src="https://img.shields.io/badge/Next%20js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+        <img src="https://img.shields.io/badge/node%20js-000000?style=for-the-badge&logo=Node.js&logoColor=white">
+        <img src="https://img.shields.io/badge/express%20js-000000?style=for-the-badge&logo=Express.js&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td align="right" valign="middle" style="padding-right: 20px;">
+        <strong>Languages</strong>
+      </td>
+      <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white">
+        <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=Cpp&logoColor=white">
+        <img src="https://img.shields.io/badge/GO-000000?style=for-the-badge&logo=GO&logoColor=white">
+        <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
+        <img src="https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td align="right" valign="middle" style="padding-right: 20px;">
+        <strong>Backend & Database</strong>
+      </td>
+      <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+        <img src="https://img.shields.io/badge/REST APIs-000000?style=for-the-badge&logo=REST APIs&logoColor=white">
+      </td>
+    </tr>
+    <tr>
+      <td align="right" valign="middle" style="padding-right: 20px;">
+        <strong>Cloud / DevOps / Infrastructure</strong>
+      </td>
+      <td align="left" valign="middle">
+        <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
+        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+        <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+        <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white">
+        <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white">
+        <img src="https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=white">
+        <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white">
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
 
 <br clear="left"/>
 <br clear="right"/>
@@ -61,67 +124,6 @@
 > Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.
 
 <br clear="right"/>
-<br>
 
-<div align="center">
-  <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
-  
-  <br>
-</div>
 
-<div align="center">
-  <p align="center">
-  <img src="https://github.com/singhsrijan46/singhsrijan46/blob/output/github-snake-dark.svg" width="100%">
-</p>
-</div>
 
-<br><br>
-
-<div align="center">
-  <img src="https://i.postimg.cc/8PmQWYw9/Whats-App-Image-2026-03-05-at-11-05-19-PM-(1).jpg" width="100%">
-  <br>
-  <br>
-  <br>
-
-  <table align="center" style="background: transparent; border: none;">
-    <tr>
-      <td align="right" valign="middle" style="padding-right: 20px;">
-        <strong>Frontend</strong>
-      </td>
-      <td align="left" valign="middle">
-        <img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=white">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white">
-        <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
-        <img src="https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
-        <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white">
-      </td>
-    </tr>
-    <tr>
-      <td align="right" valign="middle" style="padding-right: 20px;">
-        <strong>Backend & Database</strong>
-      </td>
-      <td align="left" valign="middle">
-        <img src="https://img.shields.io/badge/node%20js-000000?style=for-the-badge&logo=Node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/express%20js-000000?style=for-the-badge&logo=Express.js&logoColor=white">
-        <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=white">
-        <img src="https://img.shields.io/badge/Next%20js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
-      </td>
-    </tr>
-    <tr>
-      <td align="right" valign="middle" style="padding-right: 20px;">
-        <strong>DevOps & Tools</strong>
-      </td>
-      <td align="left" valign="middle">
-        <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-        <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white">
-        <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white">
-        <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white">
-      </td>
-    </tr>
-  </table>
-</div>
-<br>
