@@ -70,6 +70,7 @@
         <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white">
       </td>
     </tr>
     <tr>
@@ -79,7 +80,7 @@
       <td align="left" valign="middle">
         <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=white">
         <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-        <img src="https://img.shields.io/badge/REST APIs-000000?style=for-the-badge&logo=REST APIs&logoColor=white">
+        <img src="https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=REST%20APIs&logoColor=white">
       </td>
     </tr>
     <tr>
